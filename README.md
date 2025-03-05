@@ -40,7 +40,7 @@ This repository showcases practical networking tools and applications I’ve dev
 | Feature | Description |
 |---|---|
 | 🌐 Data Scraping | Fetches data from the 4 major sports league|
-| 🔗 Link | [View Project](./Web_scraping/) |
+| 🔗 Link | [View Project](./web_scraping/) |
 
 ---
 
