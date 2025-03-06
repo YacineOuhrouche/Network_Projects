@@ -39,9 +39,7 @@ This Python-based port scanner allows users to scan a **network host** and ident
 ## 📸 
 
  **GUI Example of Port Scanner**:  
+![Screenshot 2025-03-05 201332](https://github.com/user-attachments/assets/4a9176f2-2279-4d68-bb1a-443d4c55a4e9)
 
--![Screenshot 2025-03-01 130734](https://github.com/user-attachments/assets/5b823786-7813-4dc4-8685-06ae62012a33)
 
-- **Result Display Example**:  
 
-![Screenshot 2025-01-13 201747](https://github.com/user-attachments/assets/a4f28574-ce84-4ff9-8038-e5d7d22a176c)
